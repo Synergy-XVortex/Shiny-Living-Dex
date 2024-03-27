@@ -1,0 +1,1 @@
+Le projet "Shiny Living Dex" est un programme Python qui permet aux utilisateurs de suivre leur progression dans la collecte de Pokémon de différentes générations, en mettant en évidence les Pokémon Shiny (variantes colorées et rares). Le projet utilise la bibliothèque Pygame pour créer une interface utilisateur graphique et afficher les Pokémon ainsi que leur progression
